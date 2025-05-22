@@ -72,3 +72,30 @@ This data science project investigates the adoption of organic farming across th
 - Visuals: Matplotlib, Seaborn, Plotly
 - Dashboard: Streamlit
 - Data Handling: Winsorization, Robust Scaling, Linear Interpolation
+
+---
+
+## 📽️ Dashboard
+
+An interactive dashboard is built with **Streamlit** to explore:
+
+- Organic farming indicators across time  
+- CAP funding trends  
+- Clustering results  
+
+Includes **dynamic filtering**, **choropleth maps**, and **summary statistics** for user-friendly insight delivery.
+
+---
+
+## 👨‍💻 Author
+
+**Marco Vitucci**  
+MSc Data Analytics – CCT College Dublin  
+📧 Email: marco.vitucci@outlook.it
+
+---
+
+## 📜 Citation
+
+If you use this work or reference it in your research, please cite:  
+**Vitucci, M. (2025)**. *Organic Farming in Ireland and Europe: Uncovering Trends and Drivers.* MSc Data Analytics, CA2 Project Report. CCT College Dublin.
